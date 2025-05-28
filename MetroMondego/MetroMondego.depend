@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1686411016 source:c:\users\mlvdi\onedrive\ambiente de trabalho\pedro\uni\2º ano\2º. semestre\if at first you dont succeed\tp\metromondego\main.c
+	"Paragens.h"
+	"Linhas.h"
+
+1686186774 c:\users\mlvdi\onedrive\ambiente de trabalho\pedro\uni\2º ano\2º. semestre\if at first you dont succeed\tp\metromondego\paragens.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1686339961 c:\users\mlvdi\onedrive\ambiente de trabalho\pedro\uni\2º ano\2º. semestre\if at first you dont succeed\tp\metromondego\linhas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Paragens.h"
+
+1686335520 source:c:\users\mlvdi\onedrive\ambiente de trabalho\pedro\uni\2º ano\2º. semestre\if at first you dont succeed\tp\metromondego\paragens.c
+	"Paragens.h"
+
+1686410814 source:c:\users\mlvdi\onedrive\ambiente de trabalho\pedro\uni\2º ano\2º. semestre\if at first you dont succeed\tp\metromondego\linhas.c
+	"Linhas.h"
+
